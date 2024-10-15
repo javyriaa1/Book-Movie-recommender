@@ -6,8 +6,8 @@ This project is a Book and Movie Recommender System that suggests books and movi
 
 ## Outputs
 
-![Output 1](images/output1.png)
 ![Output 2](images/output2.png)
+![Output 1](images/output1.png)
 
 ## Features
 
